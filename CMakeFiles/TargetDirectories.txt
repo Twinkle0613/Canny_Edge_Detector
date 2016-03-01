@@ -1,0 +1,1 @@
+/home/nate/Documents/Canny_Edge_Detector/CMakeFiles/Canny_Edge_Detector.dir
